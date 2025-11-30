@@ -6,7 +6,7 @@ sidebar_position: 5
 sidebar_label: "Module 5: Physical AI & Humanoids"
 week: 13
 module: 5
-prerequisites: ["module-1-ros2/index", "module-2-digital-twin/index", "module-3-nvidia-isaac-sim/index"]
+prerequisites: ["module-1-ros2", "module-2-digital-twin", "module-3-nvidia-isaac-sim"]
 learning_objectives:
   - Understand principles of Physical AI and embodied intelligence
   - Develop and simulate humanoid robots using ROS 2, Gazebo, Unity, and NVIDIA Isaac

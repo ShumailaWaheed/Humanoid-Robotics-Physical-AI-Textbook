@@ -6,7 +6,7 @@ sidebar_position: 2
 sidebar_label: "Module 2: Digital Twin"
 week: 6
 module: 2
-prerequisites: ["module-1-ros2/index"]
+prerequisites: ["module-1-ros2"]
 learning_objectives:
   - Build Gazebo simulation environments with physics and sensor models
   - Integrate Unity for photorealistic visualization and synthetic sensor data
@@ -17,7 +17,7 @@ learning_objectives:
 # Digital Twins - Simulation & Sensors
 
 **Duration**: Weeks 6-7 | **Estimated Time**: 6 hours  
-**Prerequisites**: [Module 1: ROS 2](../module-1-ros2/index.md)
+**Prerequisites**: [Module 1: ROS 2]
 
 ---
 

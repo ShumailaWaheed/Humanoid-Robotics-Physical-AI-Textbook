@@ -6,7 +6,7 @@ sidebar_position: 3
 sidebar_label: "Module 3: NVIDIA Isaac Sim"
 week: 8
 module: 3
-prerequisites: ["module-2-digital-twin/index"]
+prerequisites: ["module-2-digital-twin"]
 learning_objectives:
   - Integrate AI-driven algorithms and physics-based simulation in Isaac Sim
   - Simulate robots with high-fidelity sensors and photorealistic environments
@@ -17,7 +17,7 @@ learning_objectives:
 # NVIDIA Isaac - Advanced Simulation & Robotics
 
 **Duration**: Weeks 8-10 | **Estimated Time**: 8 hours  
-**Prerequisites**: [Module 2: Digital Twin](../02-digital-twins/index.md)
+**Prerequisites**: [Module 2: Digital Twin]
 
 ---
 

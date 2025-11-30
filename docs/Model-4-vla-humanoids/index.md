@@ -6,7 +6,7 @@ sidebar_position: 4
 sidebar_label: "Module 4: Humanoids"
 week: 11
 module: 4
-prerequisites: ["module-3-nvidia-isaac-sim/index"]
+prerequisites: ["module-3-nvidia-isaac-sim"]
 learning_objectives:
   - Understand humanoid robot kinematics and dynamics
   - Implement locomotion algorithms and balance control
